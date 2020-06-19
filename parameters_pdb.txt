@@ -1,0 +1,4 @@
+Enteries	Comments
+MCF3,MCFD2,Tm16	#Please enter gene names orderly like p53,Act,
+/home/a/Desktop	#Please enter the output, where pdb filed will be downloaded 
+50	How many components you want for each gene!
