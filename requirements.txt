@@ -1,0 +1,5 @@
+pathlib>=1.0.1
+pypdb>=1.300
+pandas>=1.00
+urllib3>=1.22
+
